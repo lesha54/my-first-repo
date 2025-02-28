@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is a master branch 
+=======
+This is a conflict branch 
+>>>>>>> conflict
